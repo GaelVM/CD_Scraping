@@ -1,0 +1,23 @@
+name: Keepalive Workflow
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Todos los días a las 00:00 UTC
+  workflow_dispatch:      # Ejecutable manualmente
+
+permissions:
+  contents: write
+
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Create dummy commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit --allow-empty -m "🤖 Keepalive commit - $(date -u)"
+          git push
