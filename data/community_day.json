@@ -11,10 +11,8 @@
     "hora_inicio": "14:00",
     "hora_fin": "17:00",
     "movimiento_exclusivo": "Aire Afilado.",
-    "movimiento_dano": {
-      "Combates de Entrenador": 45,
-      "Gimnasios e incursiones": 55
-    },
+    "movimiento_dano": {},
+    "intro": [],
     "secciones": [
       {
         "titulo": "Día de la Comunidad de agosto de 2025: Rookidee",
@@ -34,111 +32,6 @@
           {
             "type": "paragraph",
             "text": "*Con un poco de suerte, ¡puede que os encontréis con uno variocolor!"
-          },
-          {
-            "type": "paragraph",
-            "text": "Evolucionad a Corvisquire (la evolución de Rookidee) desde el inicio del evento hasta el 6 de septiembre de 2025, a las 22:00 (hora local), para conseguir un Corviknight que conozca el ataque cargado Aire Afilado."
-          },
-          {
-            "type": "paragraph",
-            "text": "Aire Afilado"
-          },
-          {
-            "type": "list",
-            "items": [
-              "Combates de Entrenador: 45 de daño",
-              "Gimnasios e incursiones: 55 de daño"
-            ]
-          },
-          {
-            "type": "paragraph",
-            "text": "Por 1,99 USD (o el precio equivalente en vuestra moneda local), podréis acceder a la investigación especial exclusiva del Día de la Comunidad de Rookidee. Completad esta investigación para conseguir aún más recompensas, como las siguientes:"
-          },
-          {
-            "type": "list",
-            "items": [
-              "3 encuentros con Rookidee con un fondo especial de la temática Días Dichosos",
-              "Más encuentros con Rookidee",
-              "1 pase de combate prémium",
-              "1 Caramelo Raro ++"
-            ]
-          },
-          {
-            "type": "paragraph",
-            "text": "¡Y muchas cosas más!"
-          },
-          {
-            "type": "list",
-            "items": [
-              "Prestad atención para saber cuándo se pondrán a la venta las entradas de la investigación especial.",
-              "No olvidéis que ahora podéis comprar y regalar entradas a cualquiera de vuestras amistades con las que hayáis logrado el nivel de Gran Amistad o más.",
-              "Para regalar una entrada, tocad en la entrada de la investigación especial en la tienda del juego y, a continuación, en el botón Regalar en lugar de Comprar."
-            ]
-          },
-          {
-            "type": "paragraph",
-            "text": "Las entradas no son reembolsables (condición sujeta a la normativa vigente y las excepciones indicadas en las Condiciones de servicio). Tened en cuenta que esta investigación especial no incluye una insignia en el juego y ni una historia."
-          },
-          {
-            "type": "paragraph",
-            "text": "¡Seguid con el Día de la Comunidad gracias una nueva oportunidad de investigación temporal que seguirá activa una semana después del evento!"
-          },
-          {
-            "type": "paragraph",
-            "text": "Los Entrenadores que inicien sesión durante el Día de la Comunidad de agosto recibirán una investigación temporal con la que conseguirán un encuentro con un Rookidee con un fondo especial de Dias Dichosos. También tendréis más posibilidades de encontrar Rookidee variocolor al completar las tareas de esta investigación."
-          },
-          {
-            "type": "paragraph",
-            "text": "¡No os olvidéis, Entrenadores, que podéis evolucionar a Corvisquire (la evolución de Rookidee) durante la semana después del evento para conseguir un Corviknight que conozca el ataque cargado Aire Afilado!"
-          },
-          {
-            "type": "paragraph",
-            "text": "Tened en cuenta que la investigación temporal finaliza en algún momento. Las tareas asociadas a esta investigación temporal se habrán de completar y sus premios se tendrán que reclamar antes del sábado 6 de septiembre de 2025, a las 22:00 (hora local)."
-          },
-          {
-            "type": "list",
-            "items": [
-              "1/4 de la distancia para eclosionar los Huevos que se coloquen en una incubadora mientras dure el evento.",
-              "Doble de Caramelos por capturar Pokémon.",
-              "Doble de probabilidad para Entrenadores de nivel 31 y superior de recibir Caramelos ++ por capturar Pokémon.",
-              "Los Módulos Cebo activados durante el evento durarán tres horas.",
-              "Los Inciensos (excluyendo el Incienso de aventura diaria) activados durante el evento durarán tres horas.",
-              "¡Sacad instantáneas durante el Día de la Comunidad si queréis llevaros una sorpresa!",
-              "Es posible realizar un intercambio especial adicional, hasta un máximo de tres al día.*",
-              "Los intercambios requerirán un 50 % menos de Polvos Estelares.*"
-            ]
-          },
-          {
-            "type": "paragraph",
-            "text": "*Aunque la mayoría de los bonus solo están activos durante las tres horas que dura el evento, estos bonus estarán activos de 14:00 a 22:00 (hora local)."
-          },
-          {
-            "type": "paragraph",
-            "text": "¡Habrá una investigación de campo con la temática del Día de la Comunidad de agosto! ¡Capturad a Rookidee para conseguir premios como Polvos Estelares, Super Balls, encuentros adicionales con Rookidee y más!"
-          },
-          {
-            "type": "paragraph",
-            "text": "Si salís y exploráis con vuestra comunidad, incluso os podríais encontrar una investigación de campo que culmina con encuentros con Rookidee con fondos especiales de Días Dichosos… Eso sí, ¡con un poco de suerte!"
-          },
-          {
-            "type": "paragraph",
-            "text": "Durante el evento, se pondrá a la venta un Pack Día de la Comunidad Ultraespecial con tres Pociones Máximas y una entrada para la investigación especial en laTienda en línea de Pokémon GOpor 1,99 USD (o el precio equivalente en vuestra moneda local). Estará a la venta desde el 25 de agosto a las 19:00 CEST (10:00 PDT)."
-          },
-          {
-            "type": "paragraph",
-            "text": "Si estáis buscando Entrenadores en vuestros alrededores para intercambiar Pokémon, combatir o participar en incursiones el Día de la Comunidad, consultad nuestromapa del Día de la Comunidad. En él, podréis encontrar eventos de Embajadores de la comunidad y parques locales."
-          },
-          {
-            "type": "paragraph",
-            "text": "Los Embajadores de la comunidad organizan eventos de Pokémon GO para sus comunidades con el apoyo de Niantic. Si no hay Embajadores de la comunidad cerca, podéis buscar enCampfireotras quedadas locales en vuestra zona."
-          },
-          {
-            "type": "paragraph",
-            "text": "Los parques marcados en el mapa del Día de la Comunidad son lugares populares de la ciudad donde los Entrenadores se reúnen para celebrar el Día de la Comunidad. En estos parques os lo pasaréis bien junto a los Entrenadores de vuestra comunidad local y disfrutaréis del aire fresco.* ¡Esperamos que este mapa os ayude a conectar!"
-          },
-          {
-            "type": "paragraph",
-            "text": "*Los lugares populares se señalan solo con fines informativos. Niantic no organiza ni coordina eventos oficiales o extraoficiales en estos lugares. Prestad atención al entorno cuando disfrutéis de los juegos de Niantic."
           }
         ]
       },
@@ -148,10 +41,6 @@
           {
             "type": "paragraph",
             "text": "Rookidee aparecerá salvaje con más frecuencia.*"
-          },
-          {
-            "type": "paragraph",
-            "text": "*Con un poco de suerte, ¡puede que os encontréis con uno variocolor!"
           }
         ]
       },
@@ -161,17 +50,6 @@
           {
             "type": "paragraph",
             "text": "Evolucionad a Corvisquire (la evolución de Rookidee) desde el inicio del evento hasta el 6 de septiembre de 2025, a las 22:00 (hora local), para conseguir un Corviknight que conozca el ataque cargado Aire Afilado."
-          },
-          {
-            "type": "paragraph",
-            "text": "Aire Afilado"
-          },
-          {
-            "type": "list",
-            "items": [
-              "Combates de Entrenador: 45 de daño",
-              "Gimnasios e incursiones: 55 de daño"
-            ]
           }
         ]
       },
@@ -181,31 +59,6 @@
           {
             "type": "paragraph",
             "text": "Por 1,99 USD (o el precio equivalente en vuestra moneda local), podréis acceder a la investigación especial exclusiva del Día de la Comunidad de Rookidee. Completad esta investigación para conseguir aún más recompensas, como las siguientes:"
-          },
-          {
-            "type": "list",
-            "items": [
-              "3 encuentros con Rookidee con un fondo especial de la temática Días Dichosos",
-              "Más encuentros con Rookidee",
-              "1 pase de combate prémium",
-              "1 Caramelo Raro ++"
-            ]
-          },
-          {
-            "type": "paragraph",
-            "text": "¡Y muchas cosas más!"
-          },
-          {
-            "type": "list",
-            "items": [
-              "Prestad atención para saber cuándo se pondrán a la venta las entradas de la investigación especial.",
-              "No olvidéis que ahora podéis comprar y regalar entradas a cualquiera de vuestras amistades con las que hayáis logrado el nivel de Gran Amistad o más.",
-              "Para regalar una entrada, tocad en la entrada de la investigación especial en la tienda del juego y, a continuación, en el botón Regalar en lugar de Comprar."
-            ]
-          },
-          {
-            "type": "paragraph",
-            "text": "Las entradas no son reembolsables (condición sujeta a la normativa vigente y las excepciones indicadas en las Condiciones de servicio). Tened en cuenta que esta investigación especial no incluye una insignia en el juego y ni una historia."
           }
         ]
       },
@@ -215,18 +68,6 @@
           {
             "type": "paragraph",
             "text": "¡Seguid con el Día de la Comunidad gracias una nueva oportunidad de investigación temporal que seguirá activa una semana después del evento!"
-          },
-          {
-            "type": "paragraph",
-            "text": "Los Entrenadores que inicien sesión durante el Día de la Comunidad de agosto recibirán una investigación temporal con la que conseguirán un encuentro con un Rookidee con un fondo especial de Dias Dichosos. También tendréis más posibilidades de encontrar Rookidee variocolor al completar las tareas de esta investigación."
-          },
-          {
-            "type": "paragraph",
-            "text": "¡No os olvidéis, Entrenadores, que podéis evolucionar a Corvisquire (la evolución de Rookidee) durante la semana después del evento para conseguir un Corviknight que conozca el ataque cargado Aire Afilado!"
-          },
-          {
-            "type": "paragraph",
-            "text": "Tened en cuenta que la investigación temporal finaliza en algún momento. Las tareas asociadas a esta investigación temporal se habrán de completar y sus premios se tendrán que reclamar antes del sábado 6 de septiembre de 2025, a las 22:00 (hora local)."
           }
         ]
       },
@@ -258,10 +99,6 @@
           {
             "type": "paragraph",
             "text": "¡Habrá una investigación de campo con la temática del Día de la Comunidad de agosto! ¡Capturad a Rookidee para conseguir premios como Polvos Estelares, Super Balls, encuentros adicionales con Rookidee y más!"
-          },
-          {
-            "type": "paragraph",
-            "text": "Si salís y exploráis con vuestra comunidad, incluso os podríais encontrar una investigación de campo que culmina con encuentros con Rookidee con fondos especiales de Días Dichosos… Eso sí, ¡con un poco de suerte!"
           }
         ]
       },
@@ -280,18 +117,6 @@
           {
             "type": "paragraph",
             "text": "Si estáis buscando Entrenadores en vuestros alrededores para intercambiar Pokémon, combatir o participar en incursiones el Día de la Comunidad, consultad nuestromapa del Día de la Comunidad. En él, podréis encontrar eventos de Embajadores de la comunidad y parques locales."
-          },
-          {
-            "type": "paragraph",
-            "text": "Los Embajadores de la comunidad organizan eventos de Pokémon GO para sus comunidades con el apoyo de Niantic. Si no hay Embajadores de la comunidad cerca, podéis buscar enCampfireotras quedadas locales en vuestra zona."
-          },
-          {
-            "type": "paragraph",
-            "text": "Los parques marcados en el mapa del Día de la Comunidad son lugares populares de la ciudad donde los Entrenadores se reúnen para celebrar el Día de la Comunidad. En estos parques os lo pasaréis bien junto a los Entrenadores de vuestra comunidad local y disfrutaréis del aire fresco.* ¡Esperamos que este mapa os ayude a conectar!"
-          },
-          {
-            "type": "paragraph",
-            "text": "*Los lugares populares se señalan solo con fines informativos. Niantic no organiza ni coordina eventos oficiales o extraoficiales en estos lugares. Prestad atención al entorno cuando disfrutéis de los juegos de Niantic."
           }
         ]
       }

@@ -37,26 +37,35 @@ def scrape_article_detail(url):
     soup = BeautifulSoup(res.content, "lxml")
 
     blocks = []
+    main_intro = []
+    intro_limit_reached = False
+    paragraph_count = 0
+
     for block in soup.select("main ._containerBlock_1vtb5_2"):
         heading = block.select_one("h2")
         body = []
         if heading:
             for el in block.select("._markdown_1vw4u_172 > *"):
                 if el.name == "p":
-                    body.append({"type": "paragraph", "text": el.get_text(strip=True)})
+                    text = el.get_text(strip=True)
+                    body.append({"type": "paragraph", "text": text})
+                    paragraph_count += 1
+                    if paragraph_count >= 4:  # limitar introducción a los 4 primeros párrafos
+                        intro_limit_reached = True
+                        break
                 elif el.name == "ul":
                     items = [li.get_text(strip=True) for li in el.find_all("li")]
                     body.append({"type": "list", "items": items})
         if heading and body:
-            blocks.append({
-                "titulo": heading.get_text(strip=True),
-                "contenido": body
-            })
+            if not intro_limit_reached:
+                main_intro.append({"titulo": heading.get_text(strip=True), "contenido": body})
+            else:
+                blocks.append({"titulo": heading.get_text(strip=True), "contenido": body})
 
     full_text = "\n".join([tag.get_text(separator="\n") for tag in soup.select("main")])
-    return full_text, blocks
+    return full_text, blocks, main_intro
 
-def extract_data(title, fulltext, blocks):
+def extract_data(title, fulltext, blocks, intro):
     data = {
         "titulo": title,
         "pokemon": title.split(":")[-1].strip() if ":" in title else "",
@@ -65,6 +74,7 @@ def extract_data(title, fulltext, blocks):
         "hora_fin": "",
         "movimiento_exclusivo": "",
         "movimiento_dano": {},
+        "intro": intro,
         "secciones": []
     }
 
@@ -96,7 +106,7 @@ def extract_data(title, fulltext, blocks):
                             data["movimiento_dano"]["Combates de Entrenador"] = int(re.search(r"(\d+)", line).group(1))
                         elif "Gimnasios" in line:
                             data["movimiento_dano"]["Gimnasios e incursiones"] = int(re.search(r"(\d+)", line).group(1))
-        
+
         data["secciones"].append(seccion)
 
     return data
@@ -111,8 +121,8 @@ if __name__ == "__main__":
     article = get_community_day_article()
     if article:
         url = BASE_URL + article["relative_url"]
-        fulltext, blocks = scrape_article_detail(url)
-        parsed = extract_data(article["title"], fulltext, blocks)
+        fulltext, blocks, intro = scrape_article_detail(url)
+        parsed = extract_data(article["title"], fulltext, blocks, intro)
 
         metadata = {
             "url": url,
