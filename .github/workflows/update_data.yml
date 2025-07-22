@@ -1,6 +1,9 @@
 name: Scrape PoGo Community Day
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: '0 12 * * *'  # Todos los días a las 12:00 UTC
   workflow_dispatch:
