@@ -1,0 +1,125 @@
+{
+  "metadata": {
+    "url": "https://pokemongo.com/es/news/communityday-august-2025-rookidee",
+    "fecha_publicacion": "",
+    "imagen": "https://lh3.googleusercontent.com/ziRKlAzwf6oEnASgtpD12-FaMdleJ1s-rOGa51dc9RhJu93Xvy-5xFJxxc8hZI_rARfpEEO4W2psqOCCPDDsgK2Kt4WHxOSvTjE=s0-e365"
+  },
+  "datos": {
+    "titulo": "Día de la Comunidad de agosto de 2025: Rookidee",
+    "pokemon": "Rookidee",
+    "fecha_evento": "30 de agosto de 2025",
+    "hora_inicio": "14:00",
+    "hora_fin": "17:00",
+    "movimiento_exclusivo": "Aire Afilado.",
+    "movimiento_dano": {},
+    "intro": [],
+    "secciones": [
+      {
+        "titulo": "Día de la Comunidad de agosto de 2025: Rookidee",
+        "contenido": [
+          {
+            "type": "paragraph",
+            "text": "Sábado 30 de agosto de 2025, de 14:00 a 17:00 (hora local)"
+          },
+          {
+            "type": "paragraph",
+            "text": "Rookidee, el Pokémon Pajarito, será el destacado durante el Día de la Comunidad de agosto."
+          },
+          {
+            "type": "paragraph",
+            "text": "Rookidee aparecerá salvaje con más frecuencia.*"
+          },
+          {
+            "type": "paragraph",
+            "text": "*Con un poco de suerte, ¡puede que os encontréis con uno variocolor!"
+          }
+        ]
+      },
+      {
+        "titulo": "Pokémon destacados",
+        "contenido": [
+          {
+            "type": "paragraph",
+            "text": "Rookidee aparecerá salvaje con más frecuencia.*"
+          }
+        ]
+      },
+      {
+        "titulo": "Ataque destacado",
+        "contenido": [
+          {
+            "type": "paragraph",
+            "text": "Evolucionad a Corvisquire (la evolución de Rookidee) desde el inicio del evento hasta el 6 de septiembre de 2025, a las 22:00 (hora local), para conseguir un Corviknight que conozca el ataque cargado Aire Afilado."
+          }
+        ]
+      },
+      {
+        "titulo": "Investigación especial del Día de la Comunidad",
+        "contenido": [
+          {
+            "type": "paragraph",
+            "text": "Por 1,99 USD (o el precio equivalente en vuestra moneda local), podréis acceder a la investigación especial exclusiva del Día de la Comunidad de Rookidee. Completad esta investigación para conseguir aún más recompensas, como las siguientes:"
+          }
+        ]
+      },
+      {
+        "titulo": "Investigación temporal de fondo especial del Día de la Comunidad",
+        "contenido": [
+          {
+            "type": "paragraph",
+            "text": "¡Seguid con el Día de la Comunidad gracias una nueva oportunidad de investigación temporal que seguirá activa una semana después del evento!"
+          }
+        ]
+      },
+      {
+        "titulo": "Bonus del evento",
+        "contenido": [
+          {
+            "type": "list",
+            "items": [
+              "1/4 de la distancia para eclosionar los Huevos que se coloquen en una incubadora mientras dure el evento.",
+              "Doble de Caramelos por capturar Pokémon.",
+              "Doble de probabilidad para Entrenadores de nivel 31 y superior de recibir Caramelos ++ por capturar Pokémon.",
+              "Los Módulos Cebo activados durante el evento durarán tres horas.",
+              "Los Inciensos (excluyendo el Incienso de aventura diaria) activados durante el evento durarán tres horas.",
+              "¡Sacad instantáneas durante el Día de la Comunidad si queréis llevaros una sorpresa!",
+              "Es posible realizar un intercambio especial adicional, hasta un máximo de tres al día.*",
+              "Los intercambios requerirán un 50 % menos de Polvos Estelares.*"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "*Aunque la mayoría de los bonus solo están activos durante las tres horas que dura el evento, estos bonus estarán activos de 14:00 a 22:00 (hora local)."
+          }
+        ]
+      },
+      {
+        "titulo": "Investigación de campo",
+        "contenido": [
+          {
+            "type": "paragraph",
+            "text": "¡Habrá una investigación de campo con la temática del Día de la Comunidad de agosto! ¡Capturad a Rookidee para conseguir premios como Polvos Estelares, Super Balls, encuentros adicionales con Rookidee y más!"
+          }
+        ]
+      },
+      {
+        "titulo": "Tienda en línea de Pokémon GO: Pack Día de la Comunidad Ultraespecial",
+        "contenido": [
+          {
+            "type": "paragraph",
+            "text": "Durante el evento, se pondrá a la venta un Pack Día de la Comunidad Ultraespecial con tres Pociones Máximas y una entrada para la investigación especial en laTienda en línea de Pokémon GOpor 1,99 USD (o el precio equivalente en vuestra moneda local). Estará a la venta desde el 25 de agosto a las 19:00 CEST (10:00 PDT)."
+          }
+        ]
+      },
+      {
+        "titulo": "¿Buscáis Entrenadores con los que jugar?",
+        "contenido": [
+          {
+            "type": "paragraph",
+            "text": "Si estáis buscando Entrenadores en vuestros alrededores para intercambiar Pokémon, combatir o participar en incursiones el Día de la Comunidad, consultad nuestromapa del Día de la Comunidad. En él, podréis encontrar eventos de Embajadores de la comunidad y parques locales."
+          }
+        ]
+      }
+    ]
+  }
+}
