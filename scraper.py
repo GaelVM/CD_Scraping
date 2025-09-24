@@ -20,7 +20,7 @@ def get_community_day_article():
     news_cards = soup.select("a._newsCard_119ao_16")
 
     for card in news_cards:
-        title = card.select_one("div._size\\:heading_1vw4u_16")
+        title = card.select_one("div._size\\:heading_sfz9t_19")
         if not title:
             continue
         if "Día de la Comunidad" in title.text:
@@ -45,7 +45,7 @@ def scrape_article_detail(url):
         heading = block.select_one("h2")
         body = []
         if heading:
-            for el in block.select("._markdown_1vw4u_172 > *"):
+            for el in block.select("._markdown_sfz9t_273 > *"):
                 if el.name == "p":
                     text = el.get_text(strip=True)
                     body.append({"type": "paragraph", "text": text})
