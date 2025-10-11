@@ -68,12 +68,13 @@
           {
             "type": "list",
             "items": [
+              "El doble de PX por capturar Pokémon.",
               "Triple de Polvos Estelares por capturar Pokémon.",
               "Doble de Caramelos por capturar Pokémon.",
               "Doble de probabilidad para Entrenadores de nivel 31 en adelante de recibir Caramelos ++ por capturar Pokémon.",
+              "Los Módulos Cebo activados durante el evento durarán tres horas.",
               "Los Inciensos (excluyendo el Incienso de aventura diaria) activados durante el evento durarán tres horas.",
               "¡Sacad instantáneas durante el Día de la Comunidad si queréis llevaros una sorpresa!",
-              "Los Módulos Cebo tendrán una duración de una hora y podrían atraer a los Pokémon destacados.*",
               "Es posible realizar un intercambio especial adicional, hasta un máximo de tres al día.*",
               "Los intercambios requerirán un 50 % menos de Polvo Estelar.*"
             ]
@@ -104,6 +105,15 @@
           {
             "type": "paragraph",
             "text": "Si estáis buscando Entrenadores en vuestros alrededores para intercambiar Pokémon, combatir o participar en incursiones el Día de la Comunidad, consultad nuestromapa del Día de la Comunidad. En él, podréis encontrar eventos de Embajadores de la comunidad y parques locales."
+          }
+        ]
+      },
+      {
+        "titulo": "XP Celebration Event",
+        "contenido": [
+          {
+            "type": "paragraph",
+            "text": "To celebrate the coming leveling update on October 15, 2025, all Trainers will be able to enjoy the following bonuses from August 25 at 1:00 p.m. PDT until October 14, 2025, at 11:59 p.m. local time. These bonuses will stack with bonuses from other Pokémon GO events."
           }
         ]
       }
