@@ -1,31 +1,31 @@
 {
   "metadata": {
-    "url": "https://pokemongo.com/es/news/communityday-may-2026-lechonk",
+    "url": "https://pokemongo.com/es/news/communitydayclassic-deino-may-2026",
     "fecha_publicacion": null,
     "imagen": null
   },
   "datos": {
-    "titulo": "Día de la Comunidad de mayo de 2026: Lechonk",
-    "pokemon": "Lechonk",
-    "fecha_evento": "2026-05-09",
+    "titulo": "Día de la Comunidad clásico de mayo 2026: Deino",
+    "pokemon": "Deino",
+    "fecha_evento": "2026-05-16",
     "hora_inicio": "14:00",
     "hora_fin": "17:00",
     "movimiento_exclusivo": "",
     "movimiento_dano": {
-      "Combates de Entrenador": 11,
-      "Gimnasios e incursiones": 19
+      "Combates de Entrenador": 55,
+      "Gimnasios e incursiones": 65
     },
     "intro": [
       {
-        "titulo": "Día de la Comunidad de mayo de 2026: Lechonk",
+        "titulo": "Día de la Comunidad clásico de mayo 2026: Deino",
         "contenido": [
           {
             "type": "paragraph",
-            "text": "Sábado 9 de mayo de 2026, de 14:00 a 17:00 (hora local)"
+            "text": "Sábado 16 de mayo de 2026, de 14:00 a 17:00 (hora local)"
           },
           {
             "type": "paragraph",
-            "text": "¡Lechonk, el Pokémon Gorrino, será el destacado durante el Día de la Comunidad de mayo!"
+            "text": "¡Deino, el Pokémon Tosco, será el destacado durante el Día de la Comunidad clásico de mayo!"
           }
         ]
       },
@@ -34,7 +34,7 @@
         "contenido": [
           {
             "type": "paragraph",
-            "text": "Lechonk aparecerá salvaje con más frecuencia.*"
+            "text": "Deino aparecerá salvaje con más frecuencia.*"
           }
         ]
       },
@@ -43,7 +43,7 @@
         "contenido": [
           {
             "type": "paragraph",
-            "text": "Evolucionad a Lechonk durante el evento o hasta cuatro horas después de que finalice para conseguir un Oinkologne que conozca el ataque rápido Bofetón Lodo."
+            "text": "Evolucionad a Zweilous (la evolución de Deino) desde el inicio del evento hasta el 16 de mayo de 2026, a las 21:00 (hora local) para conseguir un Hydreigon que conoce el ataque cargado Giro Vil."
           }
         ]
       }
@@ -54,13 +54,13 @@
         "contenido": [
           {
             "type": "paragraph",
-            "text": "Bofetón Lodo"
+            "text": "Giro Vil"
           },
           {
             "type": "list",
             "items": [
-              "Combates de Entrenador : 11 de daño",
-              "Gimnasios e incursiones : 19 de daño"
+              "Combates de Entrenador : 55 de daño",
+              "Gimnasios e incursiones : 65 de daño"
             ]
           }
         ]
@@ -70,36 +70,28 @@
         "contenido": [
           {
             "type": "paragraph",
-            "text": "Por 1,99 USD (o el precio equivalente en vuestra moneda local), podréis acceder a la investigación especial exclusiva del Día de la Comunidad de Lechonk. Completad esta investigación para conseguir aún más recompensas, incluidas las siguientes:"
+            "text": "Por 1,99 USD (o el precio equivalente en vuestra moneda local), podréis acceder a la investigación especial exclusiva del Día de la Comunidad clásico de Deino. Completad esta investigación para conseguir aún más recompensas las siguientes:"
           },
           {
             "type": "list",
             "items": [
-              "3 encuentros con Lechonk que tienen fondos especiales.",
-              "Encuentros adicionales con Lechonk",
+              "Tres encuentros con Deino con un fondo especial",
+              "Más encuentros con Deino",
               "1 pase de combate prémium",
               "1 Caramelo Raro ++"
             ]
           },
           {
             "type": "paragraph",
-            "text": "¡Y muchas cosas más!"
+            "text": "¡Y muchas más sorpresas!"
           },
           {
             "type": "list",
             "items": [
               "Prestad atención para saber cuándo se pondrán a la venta las entradas de la investigación especial.",
               "No olvidéis que ahora podéis comprar y regalar entradas a cualquiera de vuestras amistades con las que hayáis logrado el nivel de Gran Amistad o más.",
-              "Para regalar una entrada, tocad en la entrada de la investigación especial en la tienda del juego y, a continuación, en el botón Regalar en lugar de Comprar."
+              "Para regalar una entrada, tocad en la entrada de la investigación especial en la tienda del juego y, a continuación, en el botón Regalar en lugar de Comprar.**"
             ]
-          },
-          {
-            "type": "paragraph",
-            "text": "Las entradas no son reembolsables (condición sujeta a la normativa vigente y las excepciones indicadas en las Condiciones de servicio). Tened en cuenta que esta investigación especial no incluye una insignia en el juego ni una historia."
-          },
-          {
-            "type": "paragraph",
-            "text": "*Se aplicarán determinadas restricciones. El regalo no se podrá completar si el destinatario ha comprado una entrada para la investigación especial o ya ha recibido una."
           }
         ]
       },
@@ -109,19 +101,11 @@
           {
             "type": "list",
             "items": [
-              "1/4 de la distancia para eclosionar los Huevos que se coloquen en una incubadora mientras dure el evento.",
-              "Doble de Caramelos por capturar Pokémon.",
-              "Doble de probabilidad para Entrenadores de nivel 31 en adelante de recibir Caramelos ++ por capturar Pokémon.",
-              "Los Inciensos (excluyendo el Incienso de aventura diaria) activados durante el evento durarán tres horas.",
-              "¡Sacad instantáneas durante el Día de la Comunidad si queréis llevaros una sorpresa!",
-              "Los Módulos Cebo tendrán una duración de una hora y podrían atraer a los Pokémon destacados.*",
-              "Es posible realizar un intercambio especial adicional, hasta un máximo de dos al día.*",
-              "Los intercambios requerirán un 50 % menos de Polvo Estelar.*"
+              "Triple de PX por capturar Pokémon.",
+              "El Incienso (excepto el Incienso de aventura diaria) activado durante el evento durará tres horas.",
+              "¡Sacad algunas instantáneas durante el Día de la Comunidad clásico para disfrutar de una sorpresa!",
+              "Los Módulos Cebo durarán una hora y podrían atraer al Pokémon destacado.*"
             ]
-          },
-          {
-            "type": "paragraph",
-            "text": "*Si bien la mayoría de los bonus solo estarán activos durante las tres horas que dura del evento, estos lo estarán de 14:00 a 21:00 (hora local)."
           }
         ]
       },
@@ -130,7 +114,7 @@
         "contenido": [
           {
             "type": "paragraph",
-            "text": "De 14:00 a 21:00 (hora local), será muy probable que Lechonk aparezca en las Poképaradas con Módulos Cebo normales. Los Lechonk atraídos por los Módulos Cebo normales seguirásn teniendo muchas probabilidades de ser variocolor y tener un fondo especial. ¡Y tendréis muchas probabilidades de encontraros al Pokémon destacado incluso una vez terminado el evento!"
+            "text": "El 16 de mayo de 2026, de 14:00 a 21:00 (hora local), será muy probable que Deino aparezca en las Poképaradas con Módulos Cebo normales. Los Deino atraídos por los Módulos Cebo normales seguirán teniendo muchas probabilidades de ser variocolor y tener un fondo especial. ¡Eso significa que tendréis muchas probabilidades de encontraros al Pokémon destacado incluso una vez terminado el evento!"
           }
         ]
       },
@@ -139,7 +123,7 @@
         "contenido": [
           {
             "type": "paragraph",
-            "text": "¡Habrá una investigación de campo con la temática del Día de la Comunidad de mayo! ¡Capturad a Lechonk para conseguir premios como Polvos Estelares, Ultra Balls, encuentros adicionales con Lechonk y más! Incluso os podríais encontrar una investigación de campo que culmina con encuentros con Lechonk con fondo especial… Eso sí, ¡con un poco de suerte!"
+            "text": "¡Habrá una investigación de campo con la temática del Día de la Comunidad clásico de mayo! ¡Capturad a Deino para conseguir premios como Polvos Estelares, Super Balls, encuentros adicionales con Deino y más sorpresas! Incluso os podríais encontrar una investigación de campo que culmina con encuentros con Deino con fondo especial… Eso sí, ¡con un poco de suerte!"
           }
         ]
       },
@@ -148,7 +132,11 @@
         "contenido": [
           {
             "type": "paragraph",
-            "text": "¡El Pack ultraespecial del Día de la Comunidad estará disponible por 1,99 USD (o el precio equivalente en vuestra moneda local) e incluye una entrada para el evento y cinco Ultra Balls!"
+            "text": "¡El Ultrapack del Día de la Comunidad se pondrá a la venta por 1,99 USD (o el precio equivalente en vuestra moneda local) e incluye una entrada para el evento y cinco Ultra Balls!"
+          },
+          {
+            "type": "paragraph",
+            "text": "¡Pronto podréis verlo en la Tienda en línea de Pokémon GO !"
           }
         ]
       },
@@ -173,7 +161,7 @@
           },
           {
             "type": "paragraph",
-            "text": "Registraos en un evento de Embajadores de la comunidad para conseguir una investigación temporal que culmina en encuentros adicionales con Lechonk con un fondo especial, ¡además de otros objetos prémium de recompensa!"
+            "text": "Registraos en un evento de Embajadores de la comunidad para conseguir una investigación temporal que culmina en encuentros adicionales con Deino con un fondo especial, ¡además de otros objetos prémium de recompensa!"
           },
           {
             "type": "paragraph",
