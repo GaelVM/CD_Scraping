@@ -1,6 +1,204 @@
 [
   {
     "metadata": {
+      "url": "https://pokemongo.com/news/communityday-august-2026-nickit",
+      "relative_url": "/es/news/communityday-august-2026-nickit",
+      "fecha_publicacion": "2026-07-07T16:59:00.000Z",
+      "fecha_modificacion": "2026-07-01T18:50:10.961Z",
+      "imagen": "https://lh3.googleusercontent.com/NwN9mrTAmL2lsykQRe7771OLisTcTmjz0HDz8b2obvmwa6VfCVmpiE4S4cNkhBiovr8t8j4sdk4NQ4GA3z3RZCdH2WEm1TGlCsLeoKuVIKo",
+      "tipo": "normal"
+    },
+    "datos": {
+      "titulo": "Día de la Comunidad de agosto de 2026: Nickit",
+      "tipo": "normal",
+      "pokemon": "Nickit",
+      "fecha_evento": "2026-08-16",
+      "hora_inicio": "14:00",
+      "hora_fin": "17:00",
+      "movimiento_exclusivo": "",
+      "movimiento_dano": {},
+      "intro": [
+        {
+          "titulo": "Día de la Comunidad de agosto de 2026: Nickit",
+          "contenido": [
+            {
+              "type": "paragraph",
+              "text": "Domingo 16 de agosto de 2026, de 14:00 a 17:00 (hora local)"
+            },
+            {
+              "type": "paragraph",
+              "text": "Nickit, el Pokémon Zorro, será el destacado durante el Día de la Comunidad de agosto."
+            }
+          ]
+        },
+        {
+          "titulo": "Pokémon destacados",
+          "contenido": [
+            {
+              "type": "paragraph",
+              "text": "Aparecerán más Nickit salvajes.*"
+            }
+          ]
+        },
+        {
+          "titulo": "Ataque destacado",
+          "contenido": [
+            {
+              "type": "paragraph",
+              "text": "Evolucionad un Nickit durante el evento o hasta cuatro horas después de que finalice para conseguir un Thievul que conoce el ataque cargado Viento Hielo."
+            }
+          ]
+        }
+      ],
+      "secciones": [
+        {
+          "titulo": "Investigación especial del Día de la Comunidad",
+          "contenido": [
+            {
+              "type": "paragraph",
+              "text": "Por 1,99 USD (o el precio equivalente en vuestra moneda local), podréis acceder a la investigación especial exclusiva del Día de la Comunidad de Nickit. Completad esta investigación para conseguir aún más recompensas, incluidas las siguientes:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Tres encuentros con Nickit que tienen fondos especiales.",
+                "Encuentros adicionales con Nickit",
+                "Un pase de combate prémium",
+                "Un Caramelo Raro ++ ¡Y muchas más sorpresas!",
+                "Prestad atención para saber cuándo se pondrán a la venta las entradas de la investigación especial.",
+                "No olvidéis que ahora podéis comprar y regalar entradas a cualquiera de vuestras amistades con las que hayáis logrado el nivel de Gran Amistad o más.",
+                "Para regalar una entrada, tocad en la entrada de la investigación especial en la tienda del juego y, a continuación, en el botón Regalar en lugar de Comprar."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Tres encuentros con Nickit que tienen fondos especiales."
+            },
+            {
+              "type": "paragraph",
+              "text": "Encuentros adicionales con Nickit"
+            },
+            {
+              "type": "paragraph",
+              "text": "Un pase de combate prémium"
+            },
+            {
+              "type": "paragraph",
+              "text": "Un Caramelo Raro ++ ¡Y muchas más sorpresas!"
+            },
+            {
+              "type": "paragraph",
+              "text": "Prestad atención para saber cuándo se pondrán a la venta las entradas de la investigación especial."
+            },
+            {
+              "type": "paragraph",
+              "text": "No olvidéis que ahora podéis comprar y regalar entradas a cualquiera de vuestras amistades con las que hayáis logrado el nivel de Gran Amistad o más."
+            },
+            {
+              "type": "paragraph",
+              "text": "Para regalar una entrada, tocad en la entrada de la investigación especial en la tienda del juego y, a continuación, en el botón Regalar en lugar de Comprar."
+            },
+            {
+              "type": "paragraph",
+              "text": "Las entradas no son reembolsables (condición sujeta a la normativa vigente y las excepciones indicadas en las Condiciones de servicio). Tened en cuenta que esta investigación especial no incluye una insignia en el juego ni una historia."
+            },
+            {
+              "type": "paragraph",
+              "text": "*Se aplicarán determinadas restricciones. El regalo no se podrá completar si el destinatario ha comprado una entrada para la investigación especial o ya ha recibido una."
+            }
+          ]
+        },
+        {
+          "titulo": "Bonus del evento",
+          "contenido": [
+            {
+              "type": "list",
+              "items": [
+                "Triple de Polvos Estelares por capturar Pokémon.",
+                "Doble de Caramelos por capturar Pokémon.",
+                "Doble de probabilidad para Entrenadores de nivel 31 en adelante de recibir Caramelos ++ por capturar Pokémon.",
+                "Los Inciensos (excluyendo el Incienso de aventura diaria) activados durante el evento durarán tres horas.",
+                "¡Sacad instantáneas durante el Día de la Comunidad si queréis llevaros una sorpresa!",
+                "Los Módulos Cebo tendrán una duración de una hora y podrían atraer a los Pokémon destacados.*",
+                "Es posible realizar un intercambio especial adicional, hasta un máximo de dos al día.*",
+                "Los intercambios requerirán un 50 % menos de Polvos Estelares.*"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "*Si bien la mayoría de los bonus solo estarán activos durante las tres horas que dura del evento, estos lo estarán de 14:00 a 21:00 (hora local)."
+            }
+          ]
+        },
+        {
+          "titulo": "Bonus de Módulo Cebo",
+          "contenido": [
+            {
+              "type": "paragraph",
+              "text": "De 14:00 a 21:00 (hora local), será muy probable que Nickit aparezca en las Poképaradas con Módulos Cebo normales. Los Nickit atraídos por los Módulos Cebo normales seguirán teniendo muchas probabilidades de ser variocolor y tener un fondo especial. ¡Y tendréis muchas probabilidades de encontraros al Pokémon destacado incluso una vez terminado el evento!"
+            }
+          ]
+        },
+        {
+          "titulo": "Investigación de campo",
+          "contenido": [
+            {
+              "type": "paragraph",
+              "text": "¡Habrá una investigación de campo con la temática del Día de la Comunidad de agosto! ¡Capturad a Nickit para conseguir premios como Polvos Estelares, Ultra Balls, encuentros adicionales con Nickit y más! Incluso os podríais encontrar una investigación de campo que culmina con encuentros con Nickit con fondo especial… Eso sí, ¡con un poco de suerte!"
+            }
+          ]
+        },
+        {
+          "titulo": "Tienda en línea de Pokémon GO – Pack ultraespecial del Día de la Comunidad",
+          "contenido": [
+            {
+              "type": "paragraph",
+              "text": "¡El Pack ultraespecial del Día de la Comunidad pronto estará disponible por 1,99 USD (o el precio equivalente en vuestra moneda local) e incluye una entrada para el evento y cinco Ultra Balls!"
+            }
+          ]
+        },
+        {
+          "titulo": "¿Buscáis Entrenadores con los que jugar?",
+          "contenido": [
+            {
+              "type": "paragraph",
+              "text": "Si estáis buscando Entrenadores en vuestros alrededores para intercambiar Pokémon, combatir o participar en incursiones el Día de la Comunidad, consultad nuestro mapa del Día de la Comunidad . En él, podréis encontrar eventos de Embajadores de la comunidad y parques locales."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los Embajadores de la comunidad organizan eventos de Pokémon GO para sus comunidades con el apoyo de Niantic. Si no hay Embajadores de la comunidad cerca, podéis buscar en Campfire otras quedadas locales en vuestra zona."
+            },
+            {
+              "type": "paragraph",
+              "text": "Los parques marcados en el mapa del Día de la Comunidad son lugares populares de la ciudad donde los Entrenadores se reúnen para celebrar el Día de la Comunidad. En estos parques os lo pasaréis bien junto a los Entrenadores de vuestra comunidad local y disfrutaréis del aire fresco.* ¡Esperamos que este mapa os ayude a conectar!"
+            },
+            {
+              "type": "paragraph",
+              "text": "*Los lugares populares se señalan solo con fines informativos. Niantic no organiza ni coordina eventos oficiales o extraoficiales en estos lugares. Prestad atención al entorno cuando disfrutéis de los juegos de Niantic."
+            },
+            {
+              "type": "paragraph",
+              "text": "Registraos en un evento de Embajadores de la comunidad para conseguir una Investigación temporal que culmina en encuentros adicionales con Nickit con un fondo especial, ¡además de otros objetos prémium de recompensa!"
+            },
+            {
+              "type": "paragraph",
+              "text": "A partir de enero de 2026, el Pokémon destacado de los Días de la Comunidad puede tener un fondo especial cada año."
+            },
+            {
+              "type": "paragraph",
+              "text": "Prestad siempre atención a vuestro entorno al jugar a Pokémon GO. Los próximos eventos estarán sujetos a cambios. No os olvidéis de seguirnos en las redes sociales, activar la recepción de notificaciones push y suscribiros a nuestros correos electrónicos para estar al día."
+            },
+            {
+              "type": "paragraph",
+              "text": "—El equipo de Pokémon GO"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "metadata": {
       "url": "https://pokemongo.com/news/communityday-july-2026-sobble",
       "relative_url": "/es/news/communityday-july-2026-sobble",
       "fecha_publicacion": "2026-06-16T17:00:00.000Z",
