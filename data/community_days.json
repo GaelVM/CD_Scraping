@@ -32,7 +32,7 @@
           ]
         },
         {
-          "titulo": "Pokémon destacado",
+          "titulo": "Pokémon em destaque",
           "contenido": [
             {
               "type": "paragraph",
@@ -109,7 +109,7 @@
           ]
         },
         {
-          "titulo": "Bonus del evento",
+          "titulo": "Bonificaciones del evento",
           "contenido": [
             {
               "type": "list",
@@ -230,7 +230,7 @@
           ]
         },
         {
-          "titulo": "Pokémon destacado",
+          "titulo": "Pokémon em destaque",
           "contenido": [
             {
               "type": "paragraph",
@@ -327,7 +327,7 @@
           ]
         },
         {
-          "titulo": "Bonus del evento",
+          "titulo": "Bonificaciones del evento",
           "contenido": [
             {
               "type": "list",
