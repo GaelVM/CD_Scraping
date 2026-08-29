@@ -109,7 +109,7 @@
           ]
         },
         {
-          "titulo": "Bonus del evento",
+          "titulo": "Bonos del evento",
           "contenido": [
             {
               "type": "list",
@@ -140,7 +140,7 @@
           ]
         },
         {
-          "titulo": "Investigación de campo",
+          "titulo": "Investigación de Campo",
           "contenido": [
             {
               "type": "paragraph",
@@ -158,7 +158,7 @@
           ]
         },
         {
-          "titulo": "¿Buscas Entrenadores con los que jugar?",
+          "titulo": "¿Buscáis Entrenadores con los que jugar?",
           "contenido": [
             {
               "type": "paragraph",
@@ -170,7 +170,7 @@
             },
             {
               "type": "paragraph",
-              "text": "Los parques marcados en el mapa del Día de la Comunidad son lugares populares de la ciudad donde los Entrenadores se reúnen para celebrar el Día de la Comunidad. En estos parques os lo pasaréis bien junto a los Entrenadores de vuestra comunidad local y disfrutaréis del aire fresco.* ¡Esperamos que este mapa os ayude a conectar!"
+              "text": "Los parques marcados en el mapa del Día de la Comunidad son lugares populares de la ciudad donde celebrar el Día de la Comunidad. En estos parques os lo pasaréis bien junto a los Entrenadores de vuestra comunidad local y disfrutaréis del aire fresco.* ¡Esperamos que este mapa os ayude!"
             },
             {
               "type": "paragraph",
@@ -327,7 +327,7 @@
           ]
         },
         {
-          "titulo": "Bonus del evento",
+          "titulo": "Bonos del evento",
           "contenido": [
             {
               "type": "list",
@@ -358,7 +358,7 @@
           ]
         },
         {
-          "titulo": "Investigación de campo",
+          "titulo": "Investigación de Campo",
           "contenido": [
             {
               "type": "paragraph",
@@ -376,7 +376,7 @@
           ]
         },
         {
-          "titulo": "¿Buscas Entrenadores con los que jugar?",
+          "titulo": "¿Buscáis Entrenadores con los que jugar?",
           "contenido": [
             {
               "type": "paragraph",
@@ -388,7 +388,7 @@
             },
             {
               "type": "paragraph",
-              "text": "Los parques marcados en el mapa del Día de la Comunidad son lugares populares de la ciudad donde los Entrenadores se reúnen para celebrar el Día de la Comunidad. En estos parques os lo pasaréis bien junto a los Entrenadores de vuestra comunidad local y disfrutaréis del aire fresco.* ¡Esperamos que este mapa os ayude a conectar!"
+              "text": "Los parques marcados en el mapa del Día de la Comunidad son lugares populares de la ciudad donde celebrar el Día de la Comunidad. En estos parques os lo pasaréis bien junto a los Entrenadores de vuestra comunidad local y disfrutaréis del aire fresco.* ¡Esperamos que este mapa os ayude!"
             },
             {
               "type": "paragraph",
