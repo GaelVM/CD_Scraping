@@ -1,6 +1,205 @@
 [
   {
     "metadata": {
+      "url": "https://pokemongo.com/news/communitydayclassic-gible-september-2026",
+      "relative_url": "/es/news/communitydayclassic-gible-september-2026",
+      "fecha_publicacion": "2026-08-31T17:00:00.000Z",
+      "fecha_modificacion": "2026-08-21T00:15:46.170Z",
+      "imagen": "https://lh3.googleusercontent.com/F7MGzYnKzNuMhS3zZxkhAfASJSrTRUqxiZBQGVWiDXIVj39LQbh1UIQSDtUJNAFOF6AmcXo_nuH5yOmoJ98MEYdIQIW_0ioSrnbctSDp6tG_",
+      "tipo": "clasico"
+    },
+    "datos": {
+      "titulo": "Día de la Comunidad clásico de septiembre de 2026: Gible",
+      "tipo": "clasico",
+      "pokemon": "Gible",
+      "fecha_evento": "2026-09-12",
+      "hora_inicio": "14:00",
+      "hora_fin": "21:00",
+      "movimiento_exclusivo": "Tierra Viva",
+      "movimiento_dano": {
+        "Combates de Entrenador": 90,
+        "Gimnasios e incursiones": 100
+      },
+      "intro": [
+        {
+          "titulo": "Día de la Comunidad clásico de septiembre de 2026: Gible",
+          "contenido": [
+            {
+              "type": "paragraph",
+              "text": "Sábado 12 de septiembre 2026 de 14:00 a 17:00 en la hora local"
+            },
+            {
+              "type": "paragraph",
+              "text": "¡Gible, el Pokémon Terrascualo, será el destacado durante el Día de la Comunidad clásico de septiembre!"
+            }
+          ]
+        },
+        {
+          "titulo": "Pokémon destacado",
+          "contenido": [
+            {
+              "type": "paragraph",
+              "text": "Gible aparecerá salvaje con más frecuencia.*"
+            }
+          ]
+        },
+        {
+          "titulo": "Un megadesafío de colección",
+          "contenido": [
+            {
+              "type": "paragraph",
+              "text": "¡Llega un Desafío de Colección con la temática del evento!"
+            }
+          ]
+        }
+      ],
+      "secciones": [
+        {
+          "titulo": "Un megadesafío de colección",
+          "contenido": [
+            {
+              "type": "paragraph",
+              "text": "¡Completad el Desafío de Colección para recibir PX, Polvo Estelar y Megaenergía de Garchomp!"
+            },
+            {
+              "type": "paragraph",
+              "text": "¡Evolucionad a Gible y Gabite para completar este Desafío de Colección!"
+            }
+          ]
+        },
+        {
+          "titulo": "Ataque destacado",
+          "contenido": [
+            {
+              "type": "paragraph",
+              "text": "Evolucionad a Gabite (la evolución de Gible) desde el inicio del evento hasta el 12 de septiembre de 2026 a las 22:00 en la hora local para conseguir un Garchomp que conoce el ataque cargado Tierra Viva."
+            },
+            {
+              "type": "paragraph",
+              "text": "Tierra Viva"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Combates de Entrenador : 90 de daño",
+                "Gimnasios e incursiones : 100 de daño"
+              ]
+            }
+          ]
+        },
+        {
+          "titulo": "Investigación especial del Día de la Comunidad",
+          "contenido": [
+            {
+              "type": "paragraph",
+              "text": "Por 1,99 USD (o el precio equivalente en vuestra moneda local), podréis acceder a la investigación especial exclusiva del Día de la Comunidad clásico de Gible. Completad esta investigación para conseguir aún más recompensas las siguientes:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Tres encuentros con Gible con un fondo especial",
+                "Más encuentros con Gible",
+                "1 pase de combate prémium",
+                "1 Caramelo Raro ++"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "¡Y muchas más sorpresas!"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Prestad atención para saber cuándo se pondrán a la venta las entradas de la investigación especial.",
+                "No olvidéis que ahora podéis comprar y regalar entradas a cualquiera de vuestras amistades con las que hayáis logrado el nivel de Gran Amistad o más.",
+                "Para regalar una entrada, tocad en la entrada de la investigación especial en la tienda del juego y, a continuación, en el botón Regalar en lugar de Comprar.**"
+              ]
+            }
+          ]
+        },
+        {
+          "titulo": "Bonus del evento",
+          "contenido": [
+            {
+              "type": "list",
+              "items": [
+                "Triple de PX por capturar Pokémon.",
+                "El Incienso (excepto el Incienso de aventura diaria) activado durante el evento durará tres horas.",
+                "¡Sacad algunas instantáneas durante el Día de la Comunidad clásico para disfrutar de una sorpresa!",
+                "Los Módulos Cebo durarán una hora y podrían atraer al Pokémon destacado.*"
+              ]
+            }
+          ]
+        },
+        {
+          "titulo": "Bonus de Módulo Cebo",
+          "contenido": [
+            {
+              "type": "paragraph",
+              "text": "El 12 de septiembre de 2026 de 14:00 a 21:00 en la hora local, será muy probable que Gible aparezca en las Poképaradas con Módulos Cebo normales. Los Gible atraídos por los Módulos Cebo normales seguirán teniendo muchas probabilidades de ser variocolor y tener un fondo especial. ¡Eso significa que tendréis muchas probabilidades de encontraros al Pokémon destacado incluso una vez terminado el evento!"
+            }
+          ]
+        },
+        {
+          "titulo": "Investigación de Campo",
+          "contenido": [
+            {
+              "type": "paragraph",
+              "text": "¡Habrá una investigación de campo con la temática del Día de la Comunidad de septiembre! ¡Capturad a Gible para conseguir premios como Polvos Estelares, Super Balls, encuentros adicionales con Gible y más! Incluso os podríais encontrar una investigación de campo que culmina con encuentros con Gible con fondo especial… Eso sí, ¡con un poco de suerte!"
+            }
+          ]
+        },
+        {
+          "titulo": "Tienda en línea de Pokémon GO: Pack Día de la Comunidad Ultraespecial",
+          "contenido": [
+            {
+              "type": "paragraph",
+              "text": "¡El Pack Día de la Comunidad Ultraespecial se pondrá a la venta por 1,99 USD (o el precio equivalente en vuestra moneda local) e incluye una entrada para el evento y cinco Ultra Balls!"
+            },
+            {
+              "type": "paragraph",
+              "text": "¡ Pronto podréis verlo en la Tienda en línea de Pokémon GO! !"
+            }
+          ]
+        },
+        {
+          "titulo": "¿Buscáis Entrenadores con los que jugar?",
+          "contenido": [
+            {
+              "type": "paragraph",
+              "text": "Si buscáis otros Entrenadores de vuestra zona con los que intercambiar, combatir o participar en incursiones el Día de la Comunidad, visitad el mapa o consultad eventos cercanos y encontraréis quedadas de la comunidad cercanas con días de antelación, para que podáis planificaros mejor. Estas quedadas de la comunidad las organizan los embajadores de la comunidad, que reciben apoyo oficial para celebrar eventos de Pokémon GO en sus comunidades. Si no hay embajadores de la comunidad cerca, podéis buscar quedadas cerca de donde os encontréis."
+            },
+            {
+              "type": "paragraph",
+              "text": "Obtened más información y encontrad vuestra comunidad"
+            },
+            {
+              "type": "paragraph",
+              "text": "¡Esperamos que estos recursos ayuden a los Entrenadores a ponerse en contacto entre ellos!"
+            },
+            {
+              "type": "paragraph",
+              "text": "Registraos en un evento de Embajadores de la comunidad para conseguir una investigación temporal que culmina en encuentros adicionales con Gible con un fondo especial, ¡además de otros objetos prémium de recompensa!"
+            },
+            {
+              "type": "paragraph",
+              "text": "A partir de enero de 2026, el Pokémon destacado de los Días de la Comunidad puede tener un fondo especial cada año."
+            },
+            {
+              "type": "paragraph",
+              "text": "Prestad siempre atención a vuestro entorno al jugar a Pokémon GO. Los próximos eventos estarán sujetos a cambios. No os olvidéis de seguirnos en las redes sociales, activar la recepción de notificaciones push y suscribiros a nuestros correos electrónicos para estar al día."
+            },
+            {
+              "type": "paragraph",
+              "text": "—El equipo de Pokémon GO"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "metadata": {
       "url": "https://pokemongo.com/news/communityday-august-2026-nickit",
       "relative_url": "/es/news/communityday-august-2026-nickit",
       "fecha_publicacion": "2026-07-07T16:59:00.000Z",
@@ -109,7 +308,7 @@
           ]
         },
         {
-          "titulo": "Bonos del evento",
+          "titulo": "Bonus del evento",
           "contenido": [
             {
               "type": "list",
