@@ -35,7 +35,7 @@
           ]
         },
         {
-          "titulo": "Pokémon destacado",
+          "titulo": "Featured Pokémon",
           "contenido": [
             {
               "type": "paragraph",
@@ -160,7 +160,7 @@
           ]
         },
         {
-          "titulo": "Investigación de campo",
+          "titulo": "Field Research",
           "contenido": [
             {
               "type": "paragraph",
